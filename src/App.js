@@ -135,24 +135,32 @@ export default function App() {
               About <span className="text-indigo-600">Me</span>
             </h2>
 
-            <p className="text-lg md:text-xl leading-relaxed text-gray-700">
-              I’m{" "}
-              <span className="font-semibold text-indigo-700">
-                Rishav Ranjan
-              </span>
-              , a Data Analyst with experience working with CRM, campaign,
-              user behaviour and engagement data. I specialise in{" "}
-              <span className="font-medium">
-                SQL, Python, Power BI, Excel and cloud data platforms
-              </span>
-              , using data to generate actionable business insights.
-            </p>
+           ```jsx
+  <p className="text-gray-600 leading-relaxed mb-4">
+  I’m <strong>Rishav Ranjan</strong>, a Data Analyst specialising in{" "}
+  <strong>SQL, Python, Power BI, Excel, and cloud data platforms</strong>, with
+  experience turning CRM, campaign, customer, and user engagement data into
+  actionable business insights.
+</p>
 
-            <p className="text-lg md:text-xl leading-relaxed text-gray-700 mt-4">
-              I enjoy transforming complex datasets into reliable analytics
-              models, interactive dashboards and data-driven recommendations
-              that support business and stakeholder decision-making.
-            </p>
+<p className="text-gray-600 leading-relaxed mb-4">
+  My work spans <strong>data analysis, segmentation, predictive modelling,
+  data pipelines, KPI reporting, and dashboard development</strong>. At Havas
+  Media, I worked with cross-functional teams to analyse user behaviour and
+  engagement, build analytics data models, and develop interactive Power BI
+  dashboards that reduced ad-hoc reporting by <strong>30%</strong> and
+  contributed to a <strong>10% improvement in user retention</strong>.
+</p>
+
+<p className="text-gray-600 leading-relaxed">
+  I focus on taking data from <strong>raw datasets to clear, decision-ready
+  insights</strong>—combining strong analytical thinking with reliable data
+  preparation, quality validation, and effective visualisation to help
+  stakeholders understand performance, identify opportunities, and make
+  informed decisions.
+</p>
+```
+
 
             <div className="mt-6 grid sm:grid-cols-2 gap-4">
               <div className="bg-white rounded-2xl p-5 shadow hover:shadow-lg transition">
