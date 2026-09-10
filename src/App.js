@@ -135,7 +135,7 @@ export default function App() {
               About <span className="text-indigo-600">Me</span>
             </h2>
 
-           ```jsx
+          
   <p className="text-gray-600 leading-relaxed mb-4">
   I’m <strong>Rishav Ranjan</strong>, a Data Analyst specialising in{" "}
   <strong>SQL, Python, Power BI, Excel, and cloud data platforms</strong>, with
