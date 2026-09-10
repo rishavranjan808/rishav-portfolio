@@ -159,7 +159,6 @@ export default function App() {
   stakeholders understand performance, identify opportunities, and make
   informed decisions.
 </p>
-```
 
 
             <div className="mt-6 grid sm:grid-cols-2 gap-4">
