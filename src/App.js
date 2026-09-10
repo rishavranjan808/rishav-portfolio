@@ -154,7 +154,7 @@ export default function App() {
 
 <p className="text-gray-600 leading-relaxed">
   I focus on taking data from <strong>raw datasets to clear, decision-ready
-  insights</strong>—combining strong analytical thinking with reliable data
+  insights</strong>combining strong analytical thinking with reliable data
   preparation, quality validation, and effective visualisation to help
   stakeholders understand performance, identify opportunities, and make
   informed decisions.
