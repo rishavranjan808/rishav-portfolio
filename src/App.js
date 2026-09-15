@@ -123,7 +123,7 @@ export default function App() {
 
                 <div className="mt-4 text-center">
                   <p className="text-sm text-gray-600">
-                    Panvel, India
+                   India
                   </p>
                 </div>
 
