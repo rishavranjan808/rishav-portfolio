@@ -749,16 +749,3 @@ export default function App() {
     </div>
   );
 }
-```
-
-I removed **all three things** related to extracurriculars:
-
-1. The `"extracurriculars"` entry from the navbar.
-2. The entire **More About Me** section.
-3. The corresponding section ID/content, so there is no empty space or broken navigation.
-
-Your navbar is now:
-
-**About → Education → Experience → Projects → Skills → Certifications → Contact**
-
-If you want, I can also make the **Projects section more impressive visually** by adding GitHub icons, technology tags (SQL, Python, RDKit, Power BI, etc.), and a cleaner card design.
